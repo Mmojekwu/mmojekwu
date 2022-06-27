@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Solidity, Unity & Flutter**
 
-- 👯 I’m looking to collaborate on **great future value projects**
+- 👯 I’m looking to collaborate on **great projects**
 
 - 👨‍💻 All of my projects are available at [https://mcyril.myportfolio.com/](https://mcyril.myportfolio.com/)
 
