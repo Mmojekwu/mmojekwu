@@ -1,4 +1,6 @@
-[![MasterHead](https://images.pexels.com/photos/270557/pexels-photo-270557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://mcyril.myportfolio.com/)
+
+[![MasterHead](https://user-images.githubusercontent.com/56127021/176011588-8e8f93ee-dd29-4eb3-88b1-ad0c332b6084.jpeg)](https://mcyril.myportfolio.com/)
+
 <h1 align="center">Hi! 👋, I'm Mmojekwu Cyril</h1>
 <h3 align="center">A passionate fullstack developer and designer</h3>
 
