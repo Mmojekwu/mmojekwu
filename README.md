@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mcyril.myportfolio.com/](https://mcyril.myportfolio.com/)
 
-- 💬 Ask me about **React, ReactNative, NodeJS, NestJS, NextJS Typescript, Jest, Cypress**
+- 💬 Ask me about **React, ReactNative, NodeJS, NestJS, NextJS, Typescript, Jest, Cypress**
 
 - 📫 How to reach me **echezonnachukwu@gmail.com**
 
