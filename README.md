@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **echezonnachukwu@gmail.com**
 
-- ⚡ Fun fact **I love underwater and high skies**
+- ⚡ Fun fact: **I love underwater and high skies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
