@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mmojekwu Cyril</h1>
 <h3 align="center">A passionate fullstack developer and designer</h3>
 
-- 🌱 I’m currently learning **Solidity, Unity & A.I**
+- 🌱 I’m currently learning **V.R/A.R & A.I**
 
 - 👯 I’m looking to collaborate on **great projects**
 
